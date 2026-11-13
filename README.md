@@ -38,7 +38,6 @@ python3 game.py
 ## Project Files
 
 - `game.py` - Main game logic and UI
-- `game_refactored.py` - Alternative refactored version of the game
 - `bird.png` - Bird sprite image
 - `high_score.txt` - Stores the saved high score
 - `README.md` - Project documentation
